@@ -1,6 +1,6 @@
 {
     "name": "minecraft-server-hosting",
-    "main": "index.ts",
+    "main": "src/index.ts",
     "devDependencies": {
         "@types/node": "^18",
         "typescript": "^5.0.0"
