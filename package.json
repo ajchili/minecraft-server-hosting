@@ -1,0 +1,14 @@
+{
+    "name": "minecraft-server-hosting",
+    "main": "index.ts",
+    "devDependencies": {
+        "@types/node": "^18",
+        "typescript": "^5.0.0"
+    },
+    "dependencies": {
+        "@pulumi/azure-native": "^2.0.0",
+        "@pulumi/pulumi": "^3.113.0",
+        "@pulumi/random": "^4.16.2",
+        "@pulumi/tls": "^5.0.3"
+    }
+}
